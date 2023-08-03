@@ -1,0 +1,15 @@
+programa
+{
+	
+	funcao inicio()
+	{
+		//10)
+
+		real aplicacao
+		escreva("digite o valor aplicado e vamos calcular o rendimento após um mês \n")
+		leia(aplicacao)
+
+		real rendimento = aplicacao * 0.05
+		escreva(rendimento)
+	}
+}
